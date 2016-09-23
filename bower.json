@@ -1,0 +1,25 @@
+{
+  "name": "fgui-router-extras",
+  "version": "0.1.0",
+  "authors": [
+    {
+      "name": "Franco",
+      "email": "francoagarcia@gmail.com"
+    }
+  ],
+  "main": ["dist/fgui-router-extras.js"],
+  "ignore": [
+    "src",
+    "test",
+    "gulpfile.js",
+    "karma-*.conf.js",
+    "**/.*"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "angular-mocks": ">=1.2.0",
+    "angular-scenario": ">=1.2.0",
+    "angular": ">=1.2.0",
+    "angular-ui-router": "0.3.1"
+  }
+}
